@@ -1,2 +1,1 @@
-# PCA-LDA
-FOOTBALL DATA SCIENCE 
+FOOTBALL DATA Analytics (PCA, LDA, Arima, Teams_performance)
